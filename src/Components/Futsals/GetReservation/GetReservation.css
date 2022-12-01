@@ -1,0 +1,45 @@
+.GetReservation {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  display: flex;
+  color: #fff;
+}
+.ResevationContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  margin: 1rem;
+  width: 25rem;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  border-radius: 20px;
+  margin: 3px;
+  background-color: #100b33;
+}
+
+.card img {
+  width: 20rem;
+  height: 12rem;
+}
+
+.card .btn-primary {
+  margin: 0;
+}
+
+.info {
+  padding: 2rem;
+}
+
+.card li {
+  padding: 3px;
+  word-spacing: 5px;
+  letter-spacing: 1.3px;
+}

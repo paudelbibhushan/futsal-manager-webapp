@@ -1,0 +1,30 @@
+.News {
+  display: flex;
+  justify-content: center;
+
+  align-items: center;
+  flex-wrap: wrap;
+  background: linear-gradient(#fcf8e3, #e6e3ec5d, #d0c9e294);
+  text-decoration: underline;
+  /* border-bottom: 5px solid white;
+  border-right: 5px solid white;
+  border-radius: 40px; */
+}
+.News li {
+  padding: 0.5rem;
+}
+h3 {
+  padding: 0;
+  font-size: 1rem;
+}
+.contain {
+  margin-left: 6rem;
+  margin-right: 6rem;
+}
+
+.News-li {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
